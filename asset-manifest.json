@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbdd6e0d.css",
-    "main.js": "/static/js/main.35d48138.js",
+    "main.css": "/static/css/main.529958f3.css",
+    "main.js": "/static/js/main.7cd483dc.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pj3.gif": "/static/media/pj3.08f17e765b3df6545a1f.gif",
     "static/media/pj1.gif": "/static/media/pj1.76046869e6b54dec98a3.gif",
+    "static/media/pj5.gif": "/static/media/pj5.5fa138fd11d9c30072e4.gif",
     "static/media/pj2.gif": "/static/media/pj2.3ee5d846ce5ccf6f94ee.gif",
     "static/media/pj4.gif": "/static/media/pj4.1844cd4789b1fe61fbcc.gif",
-    "static/media/pj3.gif": "/static/media/pj3.e72c685d7c43baf15852.gif",
-    "static/media/pj5.gif": "/static/media/pj5.d92a04926d44b7d2813b.gif",
+    "static/media/yjlee-resume.pdf": "/static/media/yjlee-resume.536e8f280be9a986baee.pdf",
     "static/media/avatar.jpeg": "/static/media/avatar.67d223a0037b3ee65727.jpeg",
     "static/media/home_main.png": "/static/media/home_main.ccaf1facfe443222462b.png",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.a1cb5c1907e31e31991a.pdf",
     "static/media/logo.png": "/static/media/logo.2f6e479f2e5570f98822.png",
     "index.html": "/index.html",
-    "main.fbdd6e0d.css.map": "/static/css/main.fbdd6e0d.css.map",
-    "main.35d48138.js.map": "/static/js/main.35d48138.js.map",
+    "main.529958f3.css.map": "/static/css/main.529958f3.css.map",
+    "main.7cd483dc.js.map": "/static/js/main.7cd483dc.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbdd6e0d.css",
-    "static/js/main.35d48138.js"
+    "static/css/main.529958f3.css",
+    "static/js/main.7cd483dc.js"
   ]
 }
